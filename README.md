@@ -3,11 +3,11 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Graduated in BE Electronic Engineering
-- 🔭 I’m currently working on a LMS based web application
-- 🌱 I’m currently learning **Angular, RxJS** and **State Management (NgRx)**
+- 🔭 I’m currently looking for tech jobs opportunities
+- 🌱 I’m currently learning **Angular**, **State Management (NgRx)** , **.NET/C#** and **SQL**
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/moiz-raza-78304b77/)
-- 💬 Ask me about anything tech related, I am happy to help. 
+- 💬 Ask me about anything tech-related, and I am happy to help. 
 - ⚡ Fun fact: I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 
