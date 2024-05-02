@@ -1,4 +1,4 @@
-### Hi there I'm Frontend Angular Developer👋
+### Hi there I'm Software Developer👋
 
 ## 🙋‍♂️ About Me
 
