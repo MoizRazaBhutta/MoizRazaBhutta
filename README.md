@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-<a ><img alt="Moiz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MoizRazaBhutta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Moiz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoizRazaBhutta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
